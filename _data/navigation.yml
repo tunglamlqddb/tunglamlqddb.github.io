@@ -6,22 +6,24 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publication_id
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/       
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  - title: "Honors and Awards"
+    url: "/#Honors-Awards_id"
+
+  - title: "CV"
+    url: http://tunglamlqddb.github.io/files/my_cv.pdf
 
   - title: "Teaching"
-    url: /teaching/    
+    url: "/#teaching_id"
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
