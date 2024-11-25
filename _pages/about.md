@@ -47,3 +47,7 @@ My research focuses on machine learning models that emulate human learning, emph
 # Teaching
 <span class='anchor' id='teaching_id'></span>
 - Teaching assistant in Machine Learning classes at HUST and Vin Bigdata.
+
+# English proficiency
+<span class='anchor' id='english_id'></span>
+- Ielts 7.5 overall.

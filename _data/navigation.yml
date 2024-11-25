@@ -24,6 +24,9 @@ main:
 
   - title: "Teaching"
     url: "/#teaching_id"
+
+  - title: "English proficiency"
+    url: "/#english_id"
     
   # - title: "Guide"
   #   url: /markdown/
