@@ -28,7 +28,7 @@ My research focuses on machine learning models that emulate human learning, emph
 
 ## Preprints
 - Ngoc N Tran\*, **Lam Tran**\*, Hoang Phan, Anh Bui, Tung Pham, Toan Tran, Dinh Phung, Trung Le. ["A Theoretical Guarantee for Robust Contrastive Learning"](https://arxiv.org/abs/2311.09671). Under review.
-- Hoang Phan\*, **Lam Tran**\*, Quyen Tran, Ngoc Tran, Nhat Ho, Dinh Phung, Trung Le. ["Improving Multi-task Learning via Seeking Task-based Flat Regions"](Improving Multi-task Learning via Seeking Task-based Flat Regions). Under review.
+- Hoang Phan\*, **Lam Tran**\*, Quyen Tran, Ngoc Tran, Nhat Ho, Dinh Phung, Trung Le. ["Improving Multi-task Learning via Seeking Task-based Flat Regions"](https://arxiv.org/abs/2211.13723). Under review.
 - Anh The Nguyen, **Lam Tran**, Anh Tong, Tuan-Duy H. Nguyen, Toan Tran. ["CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift"](https://arxiv.org/abs/2305.18458). Under review.
 - Quyen Tran, **Lam Tran**, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All"](https://arxiv.org/pdf/2311.15414). Under review.
 - Khanh Doan, Quyen Tran, **Lam Tran**, Tuan Nguyen, Dinh Phung, Trung Le. ["Class-Prototype Conditional Diffusion Model with Gradient Projection for Continual Learning"](https://arxiv.org/abs/2312.06710). Under review.
@@ -38,6 +38,7 @@ My research focuses on machine learning models that emulate human learning, emph
 
 ## Thesis
 - Master's thesis. ["Continual Learning with Knowledge Distillation and Representation Learning"](http://tunglamlqddb.github.io/files/LamTT_Master_Thesis.pdf), 2023.
+- Undergrad's thesis summary. ["Continual Learning via Variational Bayesian Dropout"](http://tunglamlqddb.github.io/files/BS_thesis_summarize.pdf), 2021.
 
 # Honors and Awards
 <span class='anchor' id='Honors-Awards_id'></span>
