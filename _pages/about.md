@@ -23,13 +23,13 @@ My research focuses on machine learning models that emulate human learning, emph
 <span class='anchor' id='publication_id'></span>
 # Publications
 ## Conferences
+- Anh The Nguyen, **Lam Tran**, Anh Tong, Tuan-Duy H. Nguyen, Toan Tran. ["CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift"](https://arxiv.org/abs/2305.18458). In Annual AAAI Conference on Artificial Intelligence, 2025.
 - Hoang Phan\*, **Lam Tran**\*, Quyen Tran\*, Trung Le, [“Enhancing Domain Adaptation through Prompt Gradient Alignment”](https://arxiv.org/abs/2406.09353). In Advances in Neural Information Processing Systems, 2024.
 - **Lam Tran**, Viet Nguyen, Phi Hoang, Khoat Than. ["Sharpness and Gradient Aware Minimization for Memory-based Continual Learning"](http://tunglamlqddb.github.io/files/soict2023-113.pdf). In Symposium On Information and Communication Technology, 2023.
 
 ## Preprints
 - Ngoc N Tran\*, **Lam Tran**\*, Hoang Phan, Anh Bui, Tung Pham, Toan Tran, Dinh Phung, Trung Le. ["A Theoretical Guarantee for Robust Contrastive Learning"](https://arxiv.org/abs/2311.09671). Under review.
 - Hoang Phan\*, **Lam Tran**\*, Quyen Tran, Ngoc Tran, Nhat Ho, Dinh Phung, Trung Le. ["Improving Multi-task Learning via Seeking Task-based Flat Regions"](https://arxiv.org/abs/2211.13723). Under review.
-- Anh The Nguyen, **Lam Tran**, Anh Tong, Tuan-Duy H. Nguyen, Toan Tran. ["CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift"](https://arxiv.org/abs/2305.18458). Under review.
 - Quyen Tran, **Lam Tran**, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All"](https://arxiv.org/pdf/2311.15414). Under review.
 - Khanh Doan, Quyen Tran, **Lam Tran**, Tuan Nguyen, Dinh Phung, Trung Le. ["Class-Prototype Conditional Diffusion Model with Gradient Projection for Continual Learning"](https://arxiv.org/abs/2312.06710). Under review.
 
