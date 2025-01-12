@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Research Resident under the supervision of [Prof. Trung Le](https://scholar.google.com.vn/citations?user=gysdMxwAAAAJ&hl=vi) and [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) at [VinAI Research](https://www.vinai.io), Vietnam. I received a Master's degree in Data Science and a Bachelor's degree in Computer Science from Hanoi University of Science and Technology in 2023 and 2021.
 
-My research focuses on machine learning models that emulate human learning, emphasizing generalizability, robustness to adversarial attacks, and the ability to learn continuously from multiple sources. Recently, I have been focusing on model unlearning and model merging.
+My research focuses on machine learning models that emulate human learning, emphasizing generalizability, robustness to adversarial attacks, and the ability to learn continuously from multiple sources. Recently, I have been focusing on robustness, generalization and safety aspects of foundation models.
 
 <!-- # 🔥 News
 
