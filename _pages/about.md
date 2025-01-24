@@ -23,6 +23,7 @@ My research focuses on machine learning models that emulate human learning, emph
 <span class='anchor' id='publication_id'></span>
 # Publications
 ## Conferences
+- Quyen Tran, **Lam Tran**, Khanh Doan, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["Boosting Multiple Views for pretrained-based Continual Learning"](https://openreview.net/pdf?id=AZR4R3lw7y). In International Conference on Learning Representations, 2025.
 - Anh The Nguyen, **Lam Tran**, Anh Tong, Tuan-Duy H. Nguyen, Toan Tran. ["CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift"](https://arxiv.org/abs/2305.18458). In Annual AAAI Conference on Artificial Intelligence, 2025.
 - Hoang Phan\*, **Lam Tran**\*, Quyen Tran\*, Trung Le, [“Enhancing Domain Adaptation through Prompt Gradient Alignment”](https://arxiv.org/abs/2406.09353). In Advances in Neural Information Processing Systems, 2024.
 - **Lam Tran**, Viet Nguyen, Phi Hoang, Khoat Than. ["Sharpness and Gradient Aware Minimization for Memory-based Continual Learning"](http://tunglamlqddb.github.io/files/soict2023-113.pdf). In Symposium On Information and Communication Technology, 2023.
