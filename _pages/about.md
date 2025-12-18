@@ -10,10 +10,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
+I am a first-year Computer Science PhD Student at University of Rochester, advised by [Prof. Christopher Kanan](https://chriskanan.com).
+Previously, I was fortunate to be a Research Resident under the supervision of [Prof. Trung Le](https://scholar.google.com.vn/citations?user=gysdMxwAAAAJ&hl=vi) and [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) at [VinAI Research](https://www.vinai.io) (now [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence)), Vietnam. I received a Master's degree in Data Science and a Bachelor's degree in Computer Science from Hanoi University of Science and Technology in 2023 and 2021.
 
-I am a Research Resident under the supervision of [Prof. Trung Le](https://scholar.google.com.vn/citations?user=gysdMxwAAAAJ&hl=vi) and [Dr. Toan Tran](https://scholar.google.com.vn/citations?user=PnwSuNMAAAAJ&hl=vi) at [VinAI Research](https://www.vinai.io), Vietnam. I received a Master's degree in Data Science and a Bachelor's degree in Computer Science from Hanoi University of Science and Technology in 2023 and 2021.
-
-My research focuses on machine learning models that emulate human learning, emphasizing generalizability, robustness to adversarial attacks, and the ability to learn continuously from multiple sources. Recently, I have been focusing on robustness, generalization and safety aspects of foundation models.
+My research focuses on machine learning models that emulate human learning, emphasizing generalizability, robustness to adversarial attacks, and the ability to learn continuously from multiple sources. Recently, I have been focusing on continual learning, robustness, and safety aspects of foundation models.
 
 <!-- # 🔥 News
 
@@ -23,15 +23,17 @@ My research focuses on machine learning models that emulate human learning, emph
 <span class='anchor' id='publication_id'></span>
 # Publications
 ## Conferences
+- Hoang Phan\*, **Lam Tran**\*, Quyen Tran, Ngoc Tran, Nhat Ho, Dinh Phung, Trung Le. ["Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective"](https://arxiv.org/abs/2211.13723). In International Conference on Computer Vision, 2025 (**Highlight**).
+- Hoang Phan, Sungmin Cha, **Lam Tran**, Qi Lei. ["Toward a Holistic Approach to Continual Model Merging"](https://www.arxiv.org/pdf/2509.23592). In ICCV 2025 Workshop CLVision.
 - Quyen Tran, **Lam Tran**, Khanh Doan, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["Boosting Multiple Views for pretrained-based Continual Learning"](https://openreview.net/pdf?id=AZR4R3lw7y). In International Conference on Learning Representations, 2025.
 - Anh The Nguyen, **Lam Tran**, Anh Tong, Tuan-Duy H. Nguyen, Toan Tran. ["CASUAL: Conditional Support Alignment for Domain Adaptation with Label Shift"](https://arxiv.org/abs/2305.18458). In Annual AAAI Conference on Artificial Intelligence, 2025.
 - Hoang Phan\*, **Lam Tran**\*, Quyen Tran\*, Trung Le, [“Enhancing Domain Adaptation through Prompt Gradient Alignment”](https://arxiv.org/abs/2406.09353). In Advances in Neural Information Processing Systems, 2024.
 - **Lam Tran**, Viet Nguyen, Phi Hoang, Khoat Than. ["Sharpness and Gradient Aware Minimization for Memory-based Continual Learning"](http://tunglamlqddb.github.io/files/soict2023-113.pdf). In Symposium On Information and Communication Technology, 2023.
 
 ## Preprints
+- **Lam Tran**, Hoang Phan, Christopher Kanan, Trung Le. ["RoNE: Robust Neurons Enable Internal Defenses Against Multimodal Jailbreak"](https://drive.google.com/file/d/1CjFeziakFGtKrPUfp1DM_fKZ2OJHavFP/view?usp=sharing). Ongoing work.
 - Ngoc N Tran\*, **Lam Tran**\*, Hoang Phan, Anh Bui, Tung Pham, Toan Tran, Dinh Phung, Trung Le. ["A Theoretical Guarantee for Robust Contrastive Learning"](https://arxiv.org/abs/2311.09671). Under review.
-- Hoang Phan\*, **Lam Tran**\*, Quyen Tran, Ngoc Tran, Nhat Ho, Dinh Phung, Trung Le. ["Improving Multi-task Learning via Seeking Task-based Flat Regions"](https://arxiv.org/abs/2211.13723). Under review.
-- Quyen Tran, **Lam Tran**, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All"](https://arxiv.org/pdf/2311.15414). Under review.
+- Quyen Tran, Hoang Phan, **Lam Tran**, Khoat Than, Toan Tran, Dinh Phung, Trung Le. ["KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All"](https://arxiv.org/pdf/2311.15414). Under review.
 - Khanh Doan, Quyen Tran, **Lam Tran**, Tuan Nguyen, Dinh Phung, Trung Le. ["Class-Prototype Conditional Diffusion Model with Gradient Projection for Continual Learning"](https://arxiv.org/abs/2312.06710). Under review.
 
 ## Journal
